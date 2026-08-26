@@ -76,7 +76,7 @@
   <img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE&labelColor=0A101F" alt="Facebook" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:arifhasan.connect@gmail.com">
+<a href="mailto:gargaryan4342@gmail.com">
   <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
 </a>
 &nbsp;&nbsp;

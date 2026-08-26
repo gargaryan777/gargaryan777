@@ -15,7 +15,7 @@ def main():
     # Required configuration fields
     username = config.get("github_username", "gargaryan777")
     full_name = config.get("full_name", "Aryan Garg")
-    email = config.get("email", "gargaryan52@gmail.com")
+    email = config.get("email", "gargaryan4342@gmail.com")
     role = config.get("role", "Full-Stack Developer")
     origin = config.get("origin", "Jaipur, India")
     education = config.get("education", "B.Tech in Computer Science")
@@ -41,7 +41,7 @@ def main():
                 content = f.read()
 
             # Perform string replacements for the terminal display
-            content = content.replace("arifhasan.connect@gmail.com", email)
+            content = content.replace("gargaryan4342@gmail.com", email)
             content = content.replace("Arif Hasan", full_name)
             content = content.replace("Full-Stack Developer", role)
             content = content.replace("Sylhet, Bangladesh", origin)
@@ -74,7 +74,7 @@ def main():
         content = content.replace("arifhasnn", facebook)
 
         # Replace arifhaxn's email address in the hero banner of the README.md
-        content = content.replace("arifhasan2002@gmail.com", email)
+        content = content.replace("gargaryan4342@gmail.com", email)
 
         with open(readme_file, "w", encoding="utf-8") as f:
             f.write(content)
