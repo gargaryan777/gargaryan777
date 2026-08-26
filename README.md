@@ -4,14 +4,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/gargaryan777/gargaryan777/main/hero-dark.gif"
+    srcset="./hero-dark.gif"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/gargaryan777/gargaryan777/main/hero-light.gif"
+    srcset="./hero-light.gif"
   />
   <img
-    src="https://raw.githubusercontent.com/gargaryan777/gargaryan777/main/hero-light.gif"
+    src="./hero-light.gif"
     alt="Aryan Garg — Full Stack Developer"
     width="100%"
   />
