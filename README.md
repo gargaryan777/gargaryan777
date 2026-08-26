@@ -2,9 +2,19 @@
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gargaryan777/gargaryan777/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gargaryan777/gargaryan777/main/light.svg">
-  <img alt="Arif Hasan" src="https://raw.githubusercontent.com/gargaryan777/gargaryan777/main/light.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/gargaryan777/gargaryan777/main/hero-dark.gif"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/gargaryan777/gargaryan777/main/hero-light.gif"
+  />
+  <img
+    src="https://raw.githubusercontent.com/gargaryan777/gargaryan777/main/hero-light.gif"
+    alt="Aryan Garg — Full Stack Developer"
+    width="100%"
+  />
 </picture>
 
 <!-- ===== GITHUB STATS ===== -->
